@@ -1,1 +1,2 @@
-
+A player selects a random number within a range. Another player guesses the number. After each guess, the first player provides "higher," "lower," or "correct" feedback. The second player continues guessing until the correct number is found. 
+Goal: Guess the number with the limited attempts.
